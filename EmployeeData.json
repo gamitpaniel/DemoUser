@@ -1,0 +1,124 @@
+{
+  "users": [
+    {
+      "Email": "neha.chatterjee@example.com",
+      "Designation": "IT Engineer",
+      "Function": "IT",
+      "EmploymentStatus": "Active"
+    },
+    {
+      "Email": "arjun.kapoor@example.com",
+      "Designation": "IT Administrator",
+      "Function": "IT",
+      "EmploymentStatus": "Active"
+    },
+    {
+      "Email": "ritu.pandey@example.com",
+      "Designation": "IT Engineer",
+      "Function": "IT",
+      "EmploymentStatus": "Active"
+    },
+    {
+      "Email": "kunal.gupta@example.com",
+      "Designation": "Compliance Engineer",
+      "Function": "Compliance",
+      "EmploymentStatus": "Active"
+    },
+    {
+      "Email": "rahul.nair@example.com",
+      "Designation": "Security Engineer",
+      "Function": "Security",
+      "EmploymentStatus": "Active"
+    },
+    {
+      "Email": "meera.bansal@example.com",
+      "Designation": "Security Engineer",
+      "Function": "Security",
+      "EmploymentStatus": "Active"
+    },
+    {
+      "Email": "vikram.singh@example.com",
+      "Designation": "IT Administrator",
+      "Function": "IT",
+      "EmploymentStatus": "Active"
+    },
+    {
+      "Email": "ishita.ghosh@example.com",
+      "Designation": "IT Administrator",
+      "Function": "IT",
+      "EmploymentStatus": "Active"
+    },
+    {
+      "Email": "aditya.joshi@example.com",
+      "Designation": "Security Engineer",
+      "Function": "Security",
+      "EmploymentStatus": "Active"
+    },
+    {
+      "Email": "priya.iyer@example.com",
+      "Designation": "IT Manager",
+      "Function": "IT",
+      "EmploymentStatus": "Active"
+    },
+    {
+      "Email": "aarav.sharma@example.com",
+      "Designation": "IT Administrator",
+      "Function": "IT",
+      "EmploymentStatus": "Active"
+    },
+    {
+      "Email": "nikita.saxena@example.com",
+      "Designation": "Compliance Engineer",
+      "Function": "Compliance",
+      "EmploymentStatus": "Active"
+    },
+    {
+      "Email": "suresh.patil@example.com",
+      "Designation": "IT Engineer",
+      "Function": "IT",
+      "EmploymentStatus": "Active"
+    },
+    {
+      "Email": "pooja.malhotra@example.com",
+      "Designation": "IT Engineer",
+      "Function": "IT",
+      "EmploymentStatus": "Active"
+    },
+    {
+      "Email": "manish.aggarwal@example.com",
+      "Designation": "IT Manager",
+      "Function": "IT",
+      "EmploymentStatus": "Active"
+    },
+    {
+      "Email": "deepak.yadav@example.com",
+      "Designation": "Compliance Engineer",
+      "Function": "Compliance",
+      "EmploymentStatus": "Active"
+    },
+    {
+      "Email": "kavya.reddy@example.com",
+      "Designation": "IT Manager",
+      "Function": "IT",
+      "EmploymentStatus": "Active"
+    },
+    {
+      "Email": "ananya.verma@example.com",
+      "Designation": "IT Administrator",
+      "Function": "IT",
+      "EmploymentStatus": "Active"
+    },
+    {
+      "Email": "rohan.mehta@example.com",
+      "Designation": "Security Engineer",
+      "Function": "Security",
+      "EmploymentStatus": "Active"
+    },
+    {
+      "Email": "sneha.kulkarni@example.com",
+      "Designation": "Security Engineer",
+      "Function": "Security",
+      "EmploymentStatus": "Active"
+    }
+  ]
+}
