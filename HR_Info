@@ -1,0 +1,124 @@
+{
+  "users": [
+    {
+      "Email": "neha.chatterjee@example.com",
+      "Designation": "Associate",
+      "Function": "Operations",
+      "EmploymentStatus": "Active"
+    },
+    {
+      "Email": "arjun.kapoor@example.com",
+      "Designation": "System Administrator",
+      "Function": "IT",
+      "EmploymentStatus": "Active"
+    },
+    {
+      "Email": "ritu.pandey@example.com",
+      "Designation": "Associate",
+      "Function": "Operations",
+      "EmploymentStatus": "Active"
+    },
+    {
+      "Email": "kunal.gupta@example.com",
+      "Designation": "Associate",
+      "Function": "Operations",
+      "EmploymentStatus": "Active"
+    },
+    {
+      "Email": "rahul.nair@example.com",
+      "Designation": "Software Engineer",
+      "Function": "IT",
+      "EmploymentStatus": "Active"
+    },
+    {
+      "Email": "meera.bansal@example.com",
+      "Designation": "Associate",
+      "Function": "Operations",
+      "EmploymentStatus": "Active"
+    },
+    {
+      "Email": "vikram.singh@example.com",
+      "Designation": "System Administrator",
+      "Function": "IT",
+      "EmploymentStatus": "Active"
+    },
+    {
+      "Email": "ishita.ghosh@example.com",
+      "Designation": "Associate",
+      "Function": "Operations",
+      "EmploymentStatus": "Active"
+    },
+    {
+      "Email": "aditya.joshi@example.com",
+      "Designation": "Software Engineer",
+      "Function": "IT",
+      "EmploymentStatus": "Active"
+    },
+    {
+      "Email": "priya.iyer@example.com",
+      "Designation": "Manager",
+      "Function": "HR",
+      "EmploymentStatus": "Active"
+    },
+    {
+      "Email": "aarav.sharma@example.com",
+      "Designation": "Associate",
+      "Function": "Operations",
+      "EmploymentStatus": "Inactive"
+    },
+    {
+      "Email": "nikita.saxena@example.com",
+      "Designation": "Business Analyst",
+      "Function": "Finance",
+      "EmploymentStatus": "Active"
+    },
+    {
+      "Email": "suresh.patil@example.com",
+      "Designation": "Support Engineer",
+      "Function": "IT",
+      "EmploymentStatus": "Active"
+    },
+    {
+      "Email": "pooja.malhotra@example.com",
+      "Designation": "Associate",
+      "Function": "Operations",
+      "EmploymentStatus": "Active"
+    },
+    {
+      "Email": "manish.aggarwal@example.com",
+      "Designation": "SeniorManager",
+      "Function": "HR",
+      "EmploymentStatus": "Active"
+    },
+    {
+      "Email": "deepak.yadav@example.com",
+      "Designation": "Associate",
+      "Function": "Operations",
+      "EmploymentStatus": "Active"
+    },
+    {
+      "Email": "kavya.reddy@example.com",
+      "Designation": "Senior Manager",
+      "Function": "HR",
+      "EmploymentStatus": "Active"
+    },
+    {
+      "Email": "ananya.verma@example.com",
+      "Designation": "System Administrator",
+      "Function": "IT",
+      "EmploymentStatus": "Active"
+    },
+    {
+      "Email": "rohan.mehta@example.com",
+      "Designation": "Associate",
+      "Function": "Operations",
+      "EmploymentStatus": "Active"
+    },
+    {
+      "Email": "sneha.kulkarni@example.com",
+      "Designation": "Associate",
+      "Function": "Operations",
+      "EmploymentStatus": "Active"
+    }
+  ]
+}
