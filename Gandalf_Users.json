@@ -1,0 +1,144 @@
+{
+    "users": [
+        {
+            "name": "Aarav Sharma",
+            "email": "aarav.sharma@example.com",
+            "applicationRoles": [
+                "Admin"
+            ]
+        },
+        {
+            "name": "Ananya Verma",
+            "email": "ananya.verma@example.com",
+            "applicationRoles": [
+                "ADMIN"
+            ]
+        },
+        {
+            "name": "Rohan Mehta",
+            "email": "rohan.mehta@example.com",
+            "applicationRoles": [
+                "USER"
+            ]
+        },
+        {
+            "name": "Priya Iyer",
+            "email": "priya.iyer@example.com",
+            "applicationRoles": [
+                "User"
+            ]
+        },
+        {
+            "name": "Kunal Gupta",
+            "email": "kunal.gupta@example.com",
+            "applicationRoles": [
+                "Admin"
+            ]
+        },
+        {
+            "name": "Sneha Kulkarni",
+            "email": "sneha.kulkarni@example.com",
+            "applicationRoles": [
+                "USER"
+            ]
+        },
+        {
+            "name": "Vikram Singh",
+            "email": "vikram.singh@example.com",
+            "applicationRoles": [
+                "ADMIN"
+            ]
+        },
+        {
+            "name": "Neha Chatterjee",
+            "email": "neha.chatterjee@example.com",
+            "applicationRoles": [
+                "USER"
+            ]
+        },
+        {
+            "name": "Rahul Nair",
+            "email": "rahul.nair@example.com",
+            "applicationRoles": [
+                "User"
+            ]
+        },
+        {
+            "name": "Pooja Malhotra",
+            "email": "pooja.malhotra@example.com",
+            "applicationRoles": [
+                "Admin"
+            ]
+        },
+        {
+            "name": "Aditya Joshi",
+            "email": "aditya.joshi@example.com",
+            "applicationRoles": [
+                "Admin"
+            ]
+        },
+        {
+            "name": "Kavya Reddy",
+            "email": "kavya.reddy@example.com",
+            "applicationRoles": [
+                "Admin"
+            ]
+        },
+        {
+            "name": "Suresh Patil",
+            "email": "suresh.patil@example.com",
+            "applicationRoles": [
+                "Admin"
+            ]
+        },
+        {
+            "name": "Meera Bansal",
+            "email": "meera.bansal@example.com",
+            "applicationRoles": [
+                "Admin"
+            ]
+        },
+        {
+            "name": "Arjun Kapoor",
+            "email": "arjun.kapoor@example.com",
+            "applicationRoles": [
+                "ADMIN"
+            ]
+        },
+        {
+            "name": "Nikita Saxena",
+            "email": "nikita.saxena@example.com",
+            "applicationRoles": [
+                "User"
+            ]
+        },
+        {
+            "name": "Deepak Yadav",
+            "email": "deepak.yadav@example.com",
+            "applicationRoles": [
+                "User"
+            ]
+        },
+        {
+            "name": "Ishita Ghosh",
+            "email": "ishita.ghosh@example.com",
+            "applicationRoles": [
+                "Admin"
+            ]
+        },
+        {
+            "name": "Manish Aggarwal",
+            "email": "manish.aggarwal@example.com",
+            "applicationRoles": [
+                "User"
+            ]
+        },
+        {
+            "name": "Ritu Pandey",
+            "email": "ritu.pandey@example.com",
+            "applicationRoles": [
+                "USER"
+            ]
+        }
+    ]
+}
