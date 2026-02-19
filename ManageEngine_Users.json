@@ -39,14 +39,14 @@
             "name": "Sneha Kulkarni",
             "email": "sneha.kulkarni@example.com",
             "applicationRoles": [
-                "USER"
+                "User"
             ]
         },
         {
             "name": "Vikram Singh",
             "email": "vikram.singh@example.com",
             "applicationRoles": [
-                "ADMIN"
+                "Admin"
             ]
         },
         {
@@ -67,7 +67,7 @@
             "name": "Pooja Malhotra",
             "email": "pooja.malhotra@example.com",
             "applicationRoles": [
-                "Admin"
+                "SuperAdmin"
             ]
         },
         {
@@ -88,7 +88,7 @@
             "name": "Suresh Patil",
             "email": "suresh.patil@example.com",
             "applicationRoles": [
-                "Admin"
+                "SuperAdmin"
             ]
         },
         {
