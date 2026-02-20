@@ -1,6 +1,216 @@
 {
     "users": [
         {
+      "name": "Arjun Sharma",
+      "email": "arjun.sharma@example.in",
+      "applicationRoles": [
+        "Admin"
+      ]
+    },
+    {
+      "name": "Priya Iyer",
+      "email": "priya.iyer@example.com",
+      "applicationRoles": [
+        "Security"
+      ]
+    },
+    {
+      "name": "Rohan Deshmukh",
+      "email": "rohan.deshmukh@example.org",
+      "applicationRoles": [
+        "User"
+      ]
+    },
+    {
+      "name": "Ananya Nair",
+      "email": "ananya.nair@example.in",
+      "applicationRoles": [
+        "ReadOnlyUser"
+      ]
+    },
+    {
+      "name": "Vihaan Gupta",
+      "email": "vihaan.gupta@example.com",
+      "applicationRoles": [
+        "User"
+      ]
+    },
+    {
+      "name": "Ishani Patel",
+      "email": "ishani.patel@example.net",
+      "applicationRoles": [
+        "Security"
+      ]
+    },
+    {
+      "name": "Advait Joshi",
+      "email": "advait.joshi@example.in",
+      "applicationRoles": [
+        "Admin"
+      ]
+    },
+    {
+      "name": "Kavya Reddy",
+      "email": "kavya.reddy@example.com",
+      "applicationRoles": [
+        "User"
+      ]
+    },
+    {
+      "name": "Siddharth Malhotra",
+      "email": "siddharth.malhotra@example.org",
+      "applicationRoles": [
+        "ReadOnlyUser"
+      ]
+    },
+    {
+      "name": "Diya Chatterjee",
+      "email": "diya.chatterjee@example.in",
+      "applicationRoles": [
+        "Security"
+      ]
+    },
+    {
+      "name": "Aavya Singh",
+      "email": "aavya.singh@example.com",
+      "applicationRoles": [
+        "User"
+      ]
+    },
+    {
+      "name": "Kabir Khan",
+      "email": "kabir.khan@example.net",
+      "applicationRoles": [
+        "Admin"
+      ]
+    },
+    {
+      "name": "Zoya Mirza",
+      "email": "zoya.mirza@example.in",
+      "applicationRoles": [
+        "Security"
+      ]
+    },
+    {
+      "name": "Ayaan Mukherjee",
+      "email": "ayaan.mukherjee@example.org",
+      "applicationRoles": [
+        "ReadOnlyUser"
+      ]
+    },
+    {
+      "name": "Myra Kapoor",
+      "email": "myra.kapoor@example.com",
+      "applicationRoles": [
+        "User"
+      ]
+    },
+    {
+      "name": "Reyansh Verma",
+      "email": "reyansh.verma@example.in",
+      "applicationRoles": [
+        "User"
+      ]
+    },
+    {
+      "name": "Navya Saxena",
+      "email": "navya.saxena@example.net",
+      "applicationRoles": [
+        "Admin"
+      ]
+    },
+    {
+      "name": "Shauryas Agarwal",
+      "email": "shauryas.agarwal@example.com",
+      "applicationRoles": [
+        "Security"
+      ]
+    },
+    {
+      "name": "Ira Chaudhary",
+      "email": "ira.chaudhary@example.org",
+      "applicationRoles": [
+        "ReadOnlyUser"
+      ]
+    },
+    {
+      "name": "Vidyut Rao",
+      "email": "vidyut.rao@example.in",
+      "applicationRoles": [
+        "User"
+      ]
+    },
+    {
+      "name": "Anika Mehta",
+      "email": "anika.mehta@example.com",
+      "applicationRoles": [
+        "Security"
+      ]
+    },
+    {
+      "name": "Ritvik Das",
+      "email": "ritvik.das@example.net",
+      "applicationRoles": [
+        "Admin"
+      ]
+    },
+    {
+      "name": "Shanaya Bose",
+      "email": "shanaya.bose@example.in",
+      "applicationRoles": [
+        "User"
+      ]
+    },
+    {
+      "name": "Dev Rathore",
+      "email": "dev.rathore@example.org",
+      "applicationRoles": [
+        "ReadOnlyUser"
+      ]
+    },
+    {
+      "name": "Kiara Shetty",
+      "email": "kiara.shetty@example.com",
+      "applicationRoles": [
+        "User"
+      ]
+    },
+    {
+      "name": "Arav Misra",
+      "email": "arav.misra@example.in",
+      "applicationRoles": [
+        "Security"
+      ]
+    },
+    {
+      "name": "Amara Pillai",
+      "email": "amara.pillai@example.net",
+      "applicationRoles": [
+        "Admin"
+      ]
+    },
+    {
+      "name": "Neil Pandey",
+      "email": "neil.pandey@example.com",
+      "applicationRoles": [
+        "ReadOnlyUser"
+      ]
+    },
+    {
+      "name": "Tara Kumar",
+      "email": "tara.kumar@example.org",
+      "applicationRoles": [
+        "User"
+      ]
+    },
+    {
+      "name": "Yash Tripathi",
+      "email": "yash.tripathi@example.in",
+      "applicationRoles": [
+        "Security"
+      ]
+    },
+        {
             "name": "Aarav Sharma",
             "email": "aarav.sharma@example.com",
             "applicationRoles": [
